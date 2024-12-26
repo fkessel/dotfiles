@@ -1,5 +1,5 @@
-# scripts
+# dotfiles
 
-## genproj.sh
+## uBlock-filters
 
-A Bash script that sets up a C++ project structure with CMake and Boost unit testing. The script sets up a basic project structure with placeholder files.
+Personal filter list for the addon uBlock.
